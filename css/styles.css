@@ -1,0 +1,13 @@
+#mainTitle {
+    text-align: center;
+}
+
+.profilePicture {
+    border-radius: 50%;
+    width: 8%;
+    height: 8%;
+}
+
+.pictureTitle {
+    float: right;    
+}
